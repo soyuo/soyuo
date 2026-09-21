@@ -49,7 +49,7 @@
 ### Contact
 
 [![Email](https://img.shields.io/badge/tasexyz@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tasexyz@gmail.com)
-[![Server](https://img.shields.io/badge/Cafe%2000:00-D1A638?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/cafezero)
+[![Server](https://img.shields.io/badge/Cafe%2000:00-D1A638?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/YwGM8J42t)
 [![Web](https://img.shields.io/badge/soyuo.kr-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://soyuo.kr)
 
 ---
