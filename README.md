@@ -5,17 +5,18 @@
   width="100%"
 />
 
-**FullStack Developer 를 목표로 서비스를 만들고, 운영을 개선하는 개발자 지망생입니다.**
+**서비스를 설계하고 구현하며, 사용자 경험과 운영 환경까지 고민하는 개발자입니다.**
 
-웹 서비스와 백엔드부터 CLI·자동화 도구까지 설계하고 구현합니다.
+웹·백엔드 개발을 중심으로 CLI, 자동화 도구, 네트워크 및 시스템 개발에 관심을 가지고 있습니다.
 
-편리한 사용을 중점으로 더 나은 User eXpereince 를 연구합니다.
+기능 구현에 그치지 않고, 유지보수성과 성능, 사용자 경험을 함께 고려합니다.
 
-실제 경험에 더 적합하기 위해 사용자의 관점에서 결과물을 보고 테스트합니다.
+직접 만들고 운영하며 발견한 문제를 기술적으로 해결하는 과정을 중요하게 생각합니다.  
 
 </div>
 
 ---
+
 
 ### Tech Stack
 
@@ -26,6 +27,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **Web & Backend**
 
@@ -36,15 +38,20 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 
-**Mobile, Data & Tools**
+**Mobile & Database**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Infrastructure & Tools**
+
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
 ### Contact
 
